@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  text-align: center;
+  color: green;
+  background-color: #b59a03;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+  width: 200px;
+  border-radius: 16px;
+}
